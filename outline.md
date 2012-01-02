@@ -1,4 +1,4 @@
-# OUTLINE # 
+# OUTLINE
 
 <es>I like the concept of layers, the Macro -> Micro as you did it is the right thing. 
 Same goes to "Going faster", so it seems like we have four main chapters, each with five sub chapters. Seems right, we should keep them short and sweet.</es>
@@ -20,7 +20,7 @@ Same goes to "Going faster", so it seems like we have four main chapters, each w
 Case studies and techniques to be mixed into appropriate time periods.
 
 
-# TECHNIQUES #
+# TECHNIQUES
 
 * Minimize IO in tests tests
 * Building domain data setup for testing using factories, easy to evolve tests
@@ -29,7 +29,7 @@ Case studies and techniques to be mixed into appropriate time periods.
 * tbd
 
 
-# CASE STUDIES #
+# CASE STUDIES
 
 * David Fortunado (Wealthhfront): Deployment Manager
 * John Allspaw (Etsy)
