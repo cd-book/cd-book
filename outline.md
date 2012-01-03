@@ -19,15 +19,18 @@ Same goes to "Going faster", so it seems like we have four main chapters, each w
 
 Case studies and techniques to be mixed into appropriate time periods.
 
-
 # TECHNIQUES
 
 * Minimize IO in tests tests
 * Building domain data setup for testing using factories, easy to evolve tests
 * Discovery system + client side routing (no vip)
 * Infrastructure as code (devops ftw, gives devs freedom and responsibility over execution env)
-* tbd
-
+* Validated learning (Eric Ries)
+	* ideas -> Build -> product -> Measure -> data -> Learn -> ideas -> ...
+	* Minimize time throught the whole loop
+	* Every problem only once
+	* Stop the line if anything fails
+	* Fast response vs. prevention
 
 # CASE STUDIES
 
